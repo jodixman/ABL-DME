@@ -22,7 +22,7 @@ const Card = () => {
                             <p className='cursor-pointer hover:text-red-500 duration-500 transition'>{"Comment (0)"}</p>
                         </div>
                     </div>
-                    <h1 className='text-[2.2rem] mt-5 font-bold cursor-pointer hover:text-red-500 duration-300 transition'>Donec dictum felis dolor , nec consequat hendrerit a commodo tempus.</h1>
+                    <h1 className='text-[1.7rem] mt-5 font-bold cursor-pointer hover:text-red-500 duration-300 transition'>Donec dictum felis dolor , nec consequat hendrerit a commodo tempus.</h1>
                 </div>
         </div>
     </div>
