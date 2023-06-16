@@ -14,7 +14,6 @@ function page() {
       {/*----- OUR Product  -----*/}
       <Mid />
       {/*----- Choose  -----*/}
-      <Choose />
 
     </div>
   )

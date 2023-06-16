@@ -23,7 +23,6 @@ function Navbar() {
           <li><Link href="/visi" className=" transition h-[6rem] w-[10rem] hover:bg-[#F3F3F3] flex items-center justify-center cursor-pointer">Visi & Misi</Link></li>
           <li className="transition h-[6rem] w-[10rem] hover:bg-[#F3F3F3] flex items-center justify-center cursor-pointer"><Link href="/product">Products</Link></li>
           <li className="transition h-[6rem] w-[12rem] hover:bg-[#F3F3F3] flex items-center justify-center cursor-pointer"><Link href="/news">News / Events</Link></li>
-          <li className="transition h-[6rem] w-[12rem] hover:bg-[#F3F3F3] flex items-center justify-center cursor-pointer"><Link href="/test">Test</Link></li>
         </ul>
         {/*--- Burger ---*/}
         <div className="bg-[#29AAD6] p-2 cursor-pointer text-white relative md:hidden">
@@ -40,7 +39,6 @@ function Navbar() {
               <li className="transition hover:bg-[#F3F3F3] flex items-center border py-2"><Link href="/visi" className="pl-4">Visi & Misi</Link></li>
               <li className="transition hover:bg-[#F3F3F3] py-2 border"><Link href="/product" className="pl-4">Products</Link></li>
               <li className="transition hover:bg-[#F3F3F3] py-2"><Link href="/news" className="pl-4">News / Events</Link></li>
-              <li className="transition hover:bg-[#F3F3F3] py-2"><Link href="/test" className="pl-4">Test</Link></li>
             </ul>
 
         </div>
