@@ -1,0 +1,16 @@
+import DME from "./DMErm2.png"
+import ship from "./ship.jpg"
+import contract from "./contractor.jpg"
+import contract1 from "./cont1.jpg"
+import mechin1 from "./mechine1.jpg"
+import mechin2 from "./mechin2.jpg"
+import loreng from "./loreng1.png"
+import face1 from "./face1.jpg"
+import mic1 from "./mic1.jpg"
+import mec2 from "./mec2.png"
+import mesin1 from "./mesin1.jpg"
+import mesin2 from "./mesin2.jpg"
+import mesin3 from "./mesin3.jpg"
+import mesin4 from "./mesin4.jpg"
+
+export { DME, ship, contract, mechin1, mechin2, loreng, face1, contract1, mic1, mec2, mesin1, mesin2, mesin3, mesin4 }
